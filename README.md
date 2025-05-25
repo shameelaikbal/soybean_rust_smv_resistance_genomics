@@ -42,6 +42,6 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 
 ## Code Attribution
 
-- **CrossHap**: Modified for cross-population marker group transfer analysis. Original software: [citation]. Licensed under MIT License.
+- **crosshap**: Modified for cross-population marker group transfer analysis. Original software: [citation]. Licensed under MIT License.
 
 
