@@ -1,7 +1,7 @@
 # Soybean Rust and SMV Resistance Genomics
 
 ## Overview
-Comprehensive genomics analysis investigating resistance to soybean rust (*Phakopsora pachyrhizi*) and soybean mosaic virus (SMV) using advanced population genomics approaches.
+Comprehensive genomics analysis investigating resistance to soybean rust (*Phakopsora pachyrhizi*) and soybean mosaic virus (SMV) using bioinformatics approaches.
 
 **Phenotype data:**
 - Soybean rust data from USDA-GRIN for 2815 soybean accessions
