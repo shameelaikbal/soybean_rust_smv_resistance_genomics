@@ -4,8 +4,8 @@
 Comprehensive genomics analysis investigating resistance to soybean rust (*Phakopsora pachyrhizi*) and soybean mosaic virus (SMV) using advanced population genomics approaches.
 
 **Phenotype data:**
--**Soybean rust data from USDA-GRIN for 2815 soybean accessions
--**Soybean mosaic virus data from He et al., 2025, originally retrieved from USDA-GRIN
+- **Soybean rust data from USDA-GRIN for 2815 soybean accessions
+- **Soybean mosaic virus data from He et al., 2025, originally retrieved from USDA-GRIN
 
 **Genotype data:**
 - **Reference panel for genotype imputation**: Valliyodan et al. (2021) - 399 soybean PIs
