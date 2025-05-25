@@ -39,5 +39,9 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 - Synteny analysis with common bean
 - **Scripts**: `scripts/05_synteny_analysis/`
 
----
+
+## Code Attribution
+
+- **CrossHap**: Modified for cross-population marker group transfer analysis. Original software: [citation]. Licensed under MIT License.
+
 
