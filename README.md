@@ -15,27 +15,27 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 
 ## Analysis Pipeline
 
-### 📊 **Phase 1: Imputation**
+### **1: Imputation**
 - Beagle 5.4 phasing and imputation
 - Quality filtering (DR2 > 0.8, MAF > 0.05)
 - **Scripts**: `scripts/01_imputation/`
 
-### 🔬 **Phase 2: GWAS Analysis**  
+### **2: GWAS Analysis**  
 - Rust resistance association mapping
 - Comparison of original vs imputed results
 - **Scripts**: `scripts/02_gwas/`
 
-### 🧬 **Phase 3: Local Haplotyping**
+### **3: Local Haplotyping**
 - Fine-mapping around significant SNPs
 - Separate analysis for rust resistant and susceptible populations
 - **Scripts**: `scripts/03_local_haplotyping/`
 
-### 🔄 **Phase 4: Cross-Population Analysis**
+### **Phase 4: Cross-Population Analysis**
 - Modified CrossHap for haplotype transferability
 - Resistant marker group transfer → susceptible 
 - **Scripts**: `scripts/04_cross_population_analysis/`
 
-### 🌐 **Phase 5: Comparative Genomics**
+### **Phase 5: Comparative Genomics**
 - Synteny analysis with common bean
 - **Scripts**: `scripts/05_synteny_analysis/`
 
