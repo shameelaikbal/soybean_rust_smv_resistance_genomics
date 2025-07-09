@@ -20,10 +20,10 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 - Quality filtering (DR2 > 0.8, MAF > 0.03)
 - **Scripts**: `01_imputation.sh`
 
-### **2: GWAS Analysis**  
-- Rust resistance association mapping
+### **2: GWAS**  
+- Rust resistance association analysis using rMVP
 - Comparison of original vs imputed results
-- **Scripts**: `scripts/02_gwas/`
+- **Scripts**: `02_gwas.R`
 
 ### **3: Local Haplotyping**
 - Fine-mapping around significant SNPs
