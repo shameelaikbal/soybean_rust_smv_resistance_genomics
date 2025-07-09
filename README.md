@@ -30,19 +30,22 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 - Selection of haplotype windows
 - **Scripts**: `03_LD.sh`
 
-### **4: Local Haplotyping for soybean rust**
+### **4: LDBlockShow** 
+- **Scripts**: `04_LDBlockShow.sh`
+
+### **5: Local Haplotyping for soybean rust**
 - Fine-mapping around significant SNPs
 - Separate analysis for rust resistant and susceptible populations
-- **Scripts**: `03_local_haplotyping.R`
+- **Scripts**: `05_local_haplotyping.R`
 
-### **4: Cross-Population Analysis**
+### **6: Cross-Population Analysis**
 - Modified CrossHap for haplotype transferability
 - Resistant marker group transfer → susceptible 
-- **Scripts**: `04_cross_population_analysis.R`
+- **Scripts**: `06_cross_population_analysis.R`
 
-### **5: Comparative Genomics**
+### **7: Comparative Genomics**
 - Synteny analysis with common bean
-- **Scripts**: `05_synteny_analysis.R`
+- **Scripts**: `07_synteny_analysis.R`
 
 
 ## Code Attribution
