@@ -18,7 +18,7 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 ### **1: Imputation**
 - Beagle 5.4 phasing and imputation
 - Quality filtering (DR2 > 0.8, MAF > 0.03)
-- **Scripts**: `01_imputation.sh/`
+- **Scripts**: `01_imputation.sh`
 
 ### **2: GWAS Analysis**  
 - Rust resistance association mapping
