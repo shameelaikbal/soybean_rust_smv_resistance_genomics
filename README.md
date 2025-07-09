@@ -25,7 +25,12 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 - Comparison of original vs imputed results
 - **Scripts**: `02_gwas.R`
 
-### **3: Local Haplotyping**
+### **3: Linkage disequilibrium analysis**  
+- LD analysis around genomic regions of interest
+- Selection of haplotype windows
+- **Scripts**: `03_LD.sh`
+
+### **4: Local Haplotyping for soybean rust**
 - Fine-mapping around significant SNPs
 - Separate analysis for rust resistant and susceptible populations
 - **Scripts**: `03_local_haplotyping.R`
