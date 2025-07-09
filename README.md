@@ -33,9 +33,9 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 ### **4: LDBlockShow** 
 - **Scripts**: `04_LDBlockShow.sh`
 
-### **5: Local Haplotyping for soybean rust**
+### **5: Local Haplotyping for soybean rust and SMV**
 - Fine-mapping around significant SNPs
-- Separate analysis for rust resistant and susceptible populations
+- Separate analysis for rust resistant and susceptible populations and SMV
 - **Scripts**: `05_local_haplotyping.R`
 
 ### **6: Cross-Population Analysis**
