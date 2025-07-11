@@ -9,7 +9,7 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 
 **Genotype data:**
 - **Reference panel for genotype imputation**: Valliyodan et al. (2021) - 399 soybean PIs
-- **Target VCF**: Song et al. dataset
+- **Target VCF**: Song et al. (2013, 2015) dataset
 
 ---
 
@@ -50,6 +50,6 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 
 ## Code Attribution
 
-- **crosshap**: Modified for cross-population marker group transfer analysis. Original software: [Marsh et al., 2023]. Licensed under MIT License.
+- **crosshap**: Modified for cross-population marker group transfer analysis. Original software: [Marsh et al., 2023] (https://doi.org/10.1093/bioinformatics/btad518). Licensed under MIT License.
 
 
