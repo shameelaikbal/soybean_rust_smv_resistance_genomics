@@ -5,7 +5,7 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 
 **Phenotype data:**
 - Soybean rust data from USDA-GRIN for 2815 soybean accessions [Miles et al. 2006](https://doi.org/10.1094/PHP-2006-0104-01-RS)
-- Soybean mosaic virus data from [He et al., 2025](https://doi.org/10.3390/ijms26052106)originally retrieved from USDA-GRIN
+- Soybean mosaic virus data from [He et al., 2025](https://doi.org/10.3390/ijms26052106) originally retrieved from USDA-GRIN
 
 **Genotype data:**
 - **Reference panel for genotype imputation**: [Valliyodan et al. (2021)](https://www.nature.com/articles/s41597-021-00834-w) - 399 soybean PIs
