@@ -39,7 +39,7 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 - **Scripts**: `05_local_haplotyping.R`
 
 ### **6: Cross-Population Analysis**
-- Modified CrossHap for haplotype transferability
+- Modified crosshap for haplotype transferability
 - Resistant marker group transfer → susceptible 
 - **Scripts**: `06_cross_population_analysis.R`
 
