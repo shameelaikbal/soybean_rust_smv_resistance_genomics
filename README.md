@@ -5,7 +5,7 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 
 **Phenotype data:**
 - Soybean rust data from USDA-GRIN for 2815 soybean accessions [Miles et al. 2006](https://doi.org/10.1094/PHP-2006-0104-01-RS)
-- Soybean mosaic virus data retrieved from USDA-GRIN
+- Soybean mosaic virus data retrieved from USDA-GRIN https://npgsweb.ars-grin.gov/gringlobal/descriptordetail?id=51159
 
 **Genotype data:**
 - **Reference panel for genotype imputation**: [Valliyodan et al. (2021)](https://www.nature.com/articles/s41597-021-00834-w) - 399 soybean PIs
@@ -34,7 +34,7 @@ Comprehensive genomics analysis investigating resistance to soybean rust (*Phako
 - **Scripts**: `04_LDBlockShow.sh`
 
 ### **5: Local Haplotyping for soybean rust and SMV**
-- Fine-mapping around significant SNPs
+- Local haplotyping around significant SNPs using crosshap
 - Separate analysis for rust resistant and susceptible populations and SMV
 - **Scripts**: `05_local_haplotyping.R`
 
