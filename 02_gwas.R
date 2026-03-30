@@ -1,5 +1,18 @@
 #GWAS using target VCF and imputed VCF using rMVP R-package
 #soybean rust association mapping
+#phenotype data for TAN transforming to a 6-10 scale from 1-5
+pheno <-  read.table("phenotype_tan_crosshap.txt", header = T)
+summary(pheno$Pheno)
+
+#transform susceptible phenotypes 1-5 to 6-10
+#load original phenotype data for TAN, pheno
+pheno$Pheno <- pheno$Pheno + 4
+
+write.table(pheno, "pehnotype_tan_transformed.txt", row.names = F, quote = F, sep = "\t")
+
+tan <- read.table("pehnotype_tan_transformed.txt", header = T)
+rb <- read.table("RB_crosshap_phenotype.txt", header = T)
+combined <- rbind (rb, tan)
 
 #data preparation
 library (rMVP)
